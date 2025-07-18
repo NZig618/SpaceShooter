@@ -66,5 +66,6 @@
     "explorer.fileNesting.patterns": {
         "*.sln": "*.csproj",
     },
-    "dotnet.defaultSolution": "SpaceShooter.sln"
+    "dotnet.defaultSolution": "SpaceShooter.sln",
+    "files.eol": "auto"
 }
